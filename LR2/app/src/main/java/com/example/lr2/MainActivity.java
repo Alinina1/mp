@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 if (r1.isChecked()) t.setText("да");
                 if (r2.isChecked()) t.setText("нет");
-
             }
         });
     }
