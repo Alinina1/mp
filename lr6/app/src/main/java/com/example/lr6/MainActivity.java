@@ -24,5 +24,26 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        task2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, Country.class);
+                startActivity(intent);
+            }
+        });
+        task3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, Country2.class);
+                startActivity(intent);
+            }
+        });
+        task4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, Attraction.class);
+                startActivity(intent);
+            }
+        });
     }
 }

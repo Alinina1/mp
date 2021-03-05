@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Lr5">
-        <activity android:name=".Draw2Activity"></activity>
+        <activity android:name=".Draw2"></activity>
         <activity android:name=".DrawActivity" />
         <activity android:name=".ButtonActivity" />
         <activity android:name=".MainActivity">

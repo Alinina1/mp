@@ -1,3 +1,35 @@
 <resources>
     <string name="app_name">lr6</string>
+    <string-array name="t1">
+        <item>Музей разводов</item>
+        <item>Церковь святого марка</item>
+        <item>Загребкий кафедральный сбор</item>
+    </string-array>
+    <string-array name="t2">
+        <item>Дорец Диоклетиана</item>
+        <item>Сплитский собор</item>
+        <item>Местроллик галлери</item>
+        <item>Цветочная выставка</item>
+    </string-array>
+    <string-array name="t3">
+        <item>Собор святого Вита</item>
+        <item>Trsat Fortress</item>
+        <item>Rijeka Tourist Board</item>
+        <item>Капуцинская церковь</item>
+    </string-array>
+    <string-array name="t4">
+        <item>Копачки Рит</item>
+        <item>Собор святых Петра и Павла</item>
+        <item>Музей Славоники</item>
+    </string-array>
+    <string-array name="t5">
+        <item>Церковь свтого Доната</item>
+        <item>Собор святой Анастасии</item>
+        <item>Морской орган</item>
+    </string-array>
+    <string-array name="t6">
+        <item>Бриуны</item>
+        <item>Амфитеатр</item>
+        <item>Храм Августа</item>
+    </string-array>
 </resources>

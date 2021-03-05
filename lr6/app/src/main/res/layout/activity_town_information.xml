@@ -4,12 +4,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
     tools:context=".TownInformation">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/townName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:text="TextView" />
+        android:text="TextView"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/townInfo"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:text="TextView"
+        android:textSize="15sp" />
 </LinearLayout>
